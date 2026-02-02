@@ -1,0 +1,15 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.robinsheikh.mcqhub",
+      "sha256_cert_fingerprints":
+      [
+        "1B:58:83:1D:AB:07:E6:91:23:A0:A7:54:9F:88:F4:8F:54:41:DE:D9:46:CC:84:27:DF:BB:65:AB:53:C2:D0:12",
+        "34:AA:28:A9:12:D7:9A:4D:A2:72:3E:E1:69:FB:F4:32:A7:A7:BD:25:22:AF:2C:5E:80:F2:8D:4B:90:FC:02:23",
+        "8A:A5:AF:04:40:FC:D8:65:B1:6A:B5:8E:72:11:FD:40:26:18:6F:D9:4A:84:46:93:37:23:05:74:F7:4B:00:1E"
+      ]
+    }
+  }
+]
